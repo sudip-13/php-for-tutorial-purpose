@@ -1,0 +1,3 @@
+this txt file for learning file operation on php . 
+DCF
+jhcfh
